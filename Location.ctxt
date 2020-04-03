@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Location
+comment0.text=\r\n\ class\ Location\ digunakan\ untuk\ memberi\ info\ tentang\ lokasi.\r\n\ Masing-masing\ komponen\ memiliki\ fungsi\ get\ (untuk\ mengambil\ value\ yang\ ada)\ dan\ set\ (untuk\ memperbarui\ value\ dari\ komponen).\r\n\ @author\ Alvin\ Genta\ Pratama\r\n\ @version\ 1.1.27.20\r\n
+comment1.params=province\ description\ city
+comment1.target=Location(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ Location\r\n\ @param\ province\ (Provinsi)\r\n\ @param\ description\ (Deskripsi)\r\n\ @param\ city\ (Kota)\r\n
+comment2.params=
+comment2.target=java.lang.String\ getProvince()
+comment2.text=\r\n\ Mengambil\ province\ dari\ class\ Location\r\n\ @return\ province\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment3.text=\r\n\ Mengambil\ description\ dari\ class\ Location\r\n\ @return\ description\r\n
+comment4.params=
+comment4.target=java.lang.String\ getCity()
+comment4.text=\r\n\ Mengambil\ city\ dari\ class\ Location\r\n\ @return\ city\r\n
+comment5.params=province
+comment5.target=void\ setProvince(java.lang.String)
+comment5.text=\r\n\ Menetapkan\ value\ province\ dari\ class\ Location\r\n\ @param\ province\r\n
+comment6.params=description
+comment6.target=void\ setDescription(java.lang.String)
+comment6.text=\r\n\ Menetapkan\ value\ description\ dari\ class\ Location\r\n\ @param\ description\r\n
+comment7.params=city
+comment7.target=void\ setCity(java.lang.String)
+comment7.text=\r\n\ Menetapkan\ value\ city\ dari\ class\ Location\r\n\ @param\ city\r\n
+comment8.params=
+comment8.target=java.lang.String\ toSting()
+numComments=9
